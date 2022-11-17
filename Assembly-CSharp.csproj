@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D2BFFF02-D087-DB1A-C7FE-6538A965A290}</ProjectGuid>
+    <ProjectGuid>{3B252F87-44B3-D26B-F303-BFBCFB7CB7BA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Core\Board.cs" />
     <Compile Include="Assets\Scripts\Core\Shape.cs" />
+    <Compile Include="Assets\Scripts\Manager\GameController.cs" />
+    <Compile Include="Assets\Scripts\Core\Spawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
