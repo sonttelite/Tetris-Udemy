@@ -58,8 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Core\Board.cs" />
     <Compile Include="Assets\Scripts\Core\Shape.cs" />
-    <Compile Include="Assets\Scripts\Manager\GameController.cs" />
     <Compile Include="Assets\Scripts\Core\Spawner.cs" />
+    <Compile Include="Assets\Scripts\Manager\GameController.cs" />
+    <Compile Include="Assets\Scripts\Utility\Vectorf.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

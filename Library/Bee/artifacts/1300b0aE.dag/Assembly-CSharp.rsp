@@ -380,6 +380,7 @@
 "Assets/Scripts/Core/Shape.cs"
 "Assets/Scripts/Core/Spawner.cs"
 "Assets/Scripts/Manager/GameController.cs"
+"Assets/Scripts/Utility/Vectorf.cs"
 -langversion:9.0
 
 /deterministic
